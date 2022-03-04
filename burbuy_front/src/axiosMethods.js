@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://burbuy.herokuapp.com/api/";
+const BASE_URL = "https://burbuy.herokuapp.com/api";
 // console.log(
 //   JSON.parse(JSON.parse(localStorage.getItem("persist:root")).user).currentUser
 //     .user
