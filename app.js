@@ -21,11 +21,6 @@ const errorHandlerMiddleware = require("./middleWare/error-handler");
 app.use(cors());
 app.use(express.json());
 
-app.get("/", (req, res) => {
-  console.log("you hit me baby");
-  res.send("Hey Beau");
-});
-
 app.use("/api/auth", router);
 app.use("/api/users", userRouter);
 app.use("/api/products", productRouter);
