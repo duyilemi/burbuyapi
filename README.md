@@ -1,4 +1,4 @@
-# burbuyapi
+# burbuy app
 
 A MERN Stack e-commerce shopping app
 
