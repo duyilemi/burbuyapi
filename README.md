@@ -1,5 +1,7 @@
 # burbuy app
 
+https://burbuy.vercel.app/
+
 A MERN Stack e-commerce shopping app
 
 Features include registration, signing in, signing out, adding items selected to carts all handled by redux toolkit, authentication middlewares, bcrypt library, JSON Web Token among others.
